@@ -1,0 +1,2 @@
+# mlops2
+exercise 2 MACHINE LEARNING OPTIMIZATION
